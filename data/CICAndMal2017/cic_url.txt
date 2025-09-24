@@ -1,0 +1,4 @@
+http://cicresearch.ca/CICDataset/CICMalAnal2017/Dataset/CSVs/Adware-CSVs.zip
+http://cicresearch.ca/CICDataset/CICMalAnal2017/Dataset/CSVs/Ransomware-CSVs.zip
+http://cicresearch.ca/CICDataset/CICMalAnal2017/Dataset/CSVs/SMSmalware-CSVs.zip
+http://cicresearch.ca/CICDataset/CICMalAnal2017/Dataset/CSVs/Scareware-CSVs.zip
